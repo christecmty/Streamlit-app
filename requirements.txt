@@ -2,7 +2,6 @@ streamlit
 pandas
 seaborn
 matplotlib
-sklearn
-sklearn
+scikit-learn
 sys
 os
